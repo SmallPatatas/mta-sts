@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: mail.protonmail.ch
-mx: mailsec.protonmail.ch
+mx: mx.runbox.com
 max_age: 86400
